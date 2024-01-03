@@ -1,0 +1,22 @@
+.left-navbar {
+    list-style-type: none;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+    background-color: slategrey;
+    max-width: max-content;
+}
+
+.value {
+    border: none;
+    background-color: slategrey;
+    color: white;
+    height: 35px;
+    width: 100px;
+    margin-right: auto;
+}
+
+.value:hover {
+    background-color: gray;
+}
